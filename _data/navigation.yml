@@ -9,7 +9,7 @@
 
 main:
   - title: "Home"
-    url: /
+    url: "_pages/about.html"
 
   - title: "CV"
     url: /cv/
