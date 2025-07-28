@@ -8,4 +8,3 @@ redirect_from:
 ---
 
 
-{% include author-profile.html %}
