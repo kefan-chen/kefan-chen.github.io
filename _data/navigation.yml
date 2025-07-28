@@ -9,16 +9,16 @@
 
 main:
   - title: "Home"
-    url: /aboutkefan/
+    url: /
 
   - title: "CV"
-    url: /cvkefan/
+    url: /cv/
 
   - title: "Research"
     url: /publications/
 
   - title: "Teaching"
-    url: /teachingkefan/
+    url: /teaching/
 
   - title: "Contact"
     url: /non-menu-page/
