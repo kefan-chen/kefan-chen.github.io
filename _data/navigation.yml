@@ -9,7 +9,7 @@
 
 main:
   - title: "Home"
-    url: "https://kefan-chen.github.io/_pages/about.md"
+    url: "/"
 
   - title: "CV"
     url: /cv/
